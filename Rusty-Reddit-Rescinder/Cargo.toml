@@ -1,0 +1,6 @@
+[package]
+name = "Rusty-Reddit-Rescinder"
+version = "0.1.0"
+authors = ["Ian W. Campbell <iancampbellcode@gmail.com>"]
+
+[dependencies]
