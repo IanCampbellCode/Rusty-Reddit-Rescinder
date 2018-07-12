@@ -1,0 +1,9 @@
+[package]
+
+name = "rusty-reddit-rescinder"
+version = "0.1.0"
+authors = [ "Ian W. Campbell <iancampbellcode@gmail.com>" ]
+
+[dependencies]
+
+toml = "0.4.6"
